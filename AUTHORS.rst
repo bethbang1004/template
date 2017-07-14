@@ -1,4 +1,4 @@
-Authors
+V-FRONT Characteristics
 -------
 
 * Eric (New contributor)
